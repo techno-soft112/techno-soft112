@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**techno-soft112/techno-soft112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>⚡ TECHNO-SOFT112 ⚡</h1>
+  <p><b>Software Engineering • Automation Systems • Tech Solutions</b></p>
 
-Here are some ideas to get you started:
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Python+%26+Web+Automation;Multi-Threaded+Performance;Building+Smart+Software+Tools" alt="Typing Header" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+
+  <a href="https://github.com/techno-soft112">
+    <img src="https://img.shields.io/badge/Status-Building_&_Optimizing-0ea5e9?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://github.com/techno-soft112">
+    <img src="https://img.shields.io/badge/Focus-Automation_%26_AI-8b5cf6?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+### 🚀 Core Architecture & Expertise
